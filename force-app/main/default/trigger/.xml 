@@ -1,0 +1,3 @@
+a.ContentType = 'text/csv';
+    insert a;
+}
